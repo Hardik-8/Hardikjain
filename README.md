@@ -1,4 +1,3 @@
-# Hardikjain
 # 👋 Hi, I'm Hardik Jain!
 ### 🎓 B.Tech | AI & Data Science | 4th Semester
 ### 💻 Aspiring Data Science Engineer | Python | ML | DL
