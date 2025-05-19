@@ -28,4 +28,4 @@
 
 ## 📫 Contact Me
 - Email: jainhardik819492@gmail.com
-- LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/hardik-jain-a2ab502a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/Hardik Jain)
