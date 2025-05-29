@@ -20,9 +20,9 @@
 ---
 
 ## 📂 Projects
-- 🎓 [Smart Attendance System](https://github.com/your-repo-link)
-- 🔍 [Fake News Detection](https://github.com/your-repo-link)
-- 📊 [Face Recognition Attendance System](https://github.com/Hardik-8/Face-Recognition-Attendance-System).
+- 🎓 --
+- 🔍 [Fake News Detection](https://github.com/Hardik-8/FakeNewsPrediction.git)
+- 🎓 [Face Recognition Attendance System](https://github.com/Hardik-8/Face-Recognition-Attendance-System).
 
 ---
 
