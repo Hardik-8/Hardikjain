@@ -22,10 +22,10 @@
 ## 📂 Projects
 - 🎓 [Smart Attendance System](https://github.com/your-repo-link)
 - 🔍 [Fake News Detection](https://github.com/your-repo-link)
-- 📊 [Data Visualizer App](https://github.com/your-repo-link)
+- 📊 [Face Recognition Attendance System](https://github.com/Hardik-8/Face-Recognition-Attendance-System).
 
 ---
 
 ## 📫 Contact Me
 - Email: jainhardik819492@gmail.com
-- LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/Hardik Jain)
+- LinkedIn: (https://www.linkedin.com/in/Hardik Jain)
